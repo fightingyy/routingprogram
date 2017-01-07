@@ -1,0 +1,20 @@
+﻿生成启动时间为 2016/12/28 9:25:17。
+     1>项目“E:\program\Routeprogram\channeloverlapSim\channeloverlapSim\channeloverlapSim.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Event.cpp
+         Event.cpp
+       Link:
+         D:\vs2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\program\Routeprogram\channeloverlapSim\Debug\channeloverlapSim.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\program\Routeprogram\channeloverlapSim\Debug\channeloverlapSim.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\program\Routeprogram\channeloverlapSim\Debug\channeloverlapSim.lib" /MACHINE:X86 Debug\Calculate.obj
+         Debug\common.obj
+         Debug\Event.obj
+         Debug\Mesh.obj
+         Debug\Message.obj
+         Debug\Route.obj
+         Debug\SpaningTree.obj
+         Debug\XYRoute.obj
+         channeloverlapSim.vcxproj -> E:\program\Routeprogram\channeloverlapSim\Debug\channeloverlapSim.exe
+     1>已完成生成项目“E:\program\Routeprogram\channeloverlapSim\channeloverlapSim\channeloverlapSim.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.93

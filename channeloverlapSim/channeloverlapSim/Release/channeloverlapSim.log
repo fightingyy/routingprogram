@@ -1,0 +1,30 @@
+﻿生成启动时间为 2017/1/6 9:15:08。
+     1>项目“E:\program\Routeprogram\channeloverlapSim\channeloverlapSim\channeloverlapSim.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\vs2012\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Calculate.cpp common.cpp Event.cpp Mesh.cpp Message.cpp Route.cpp SpaningTree.cpp XYRoute.cpp
+         Calculate.cpp
+         common.cpp
+     1>common.cpp(116): warning C4018: “<”: 有符号/无符号不匹配
+         Event.cpp
+         Mesh.cpp
+         Message.cpp
+         Route.cpp
+         SpaningTree.cpp
+         XYRoute.cpp
+       Link:
+         D:\vs2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\program\Routeprogram\channeloverlapSim\Release\channeloverlapSim.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\program\Routeprogram\channeloverlapSim\Release\channeloverlapSim.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\program\Routeprogram\channeloverlapSim\Release\channeloverlapSim.lib" /MACHINE:X86 /SAFESEH Release\Calculate.obj
+         Release\common.obj
+         Release\Event.obj
+         Release\Mesh.obj
+         Release\Message.obj
+         Release\Route.obj
+         Release\SpaningTree.obj
+         Release\XYRoute.obj
+         正在生成代码
+         已完成代码的生成
+         channeloverlapSim.vcxproj -> E:\program\Routeprogram\channeloverlapSim\Release\channeloverlapSim.exe
+     1>已完成生成项目“E:\program\Routeprogram\channeloverlapSim\channeloverlapSim\channeloverlapSim.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.78
